@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.057ca5eeb3416ed75454dcef50779975.js"
+  "/precache-manifest.94d570667f2ed147e7107ca99fa507cf.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "bauteilerkennung"});
